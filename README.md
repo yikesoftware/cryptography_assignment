@@ -133,7 +133,7 @@ string3=“ICE ICE BABY\x01\x02\x03\x04” 不是有效填充。
 
 ## 实验 3
 
-详见实验3目录下的 [report.docx](https://github.com/yikesoftware/cryptography_assignment/blob/main/作业3%20RSA大礼包/report.docx)
+详见实验3目录下的 [report.docx](https://github.com/yikesoftware/cryptography_assignment/blob/main/作业3%20RSA大礼包/report.pdf)
 
 # 实验心得
 
